@@ -1,0 +1,18 @@
+{
+    "name": "microbit-L298n",
+    "version": "0.0.0",
+    "description": "A typescript package to drive the L298n motor controller. Allowing variable speed and direction of two motors",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": false
+}
